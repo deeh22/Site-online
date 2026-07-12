@@ -1,0 +1,6 @@
+{
+  "name": "Despertar Espiritualidade",
+  "description": "Plataforma premium de espiritualidade, meditação, frequências binaurais, ebooks e cursos de autoconhecimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,12 @@
+{
+  "appId": "com.despertarespiritualidade.app",
+  "appName": "Despertar Espiritualidade",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
